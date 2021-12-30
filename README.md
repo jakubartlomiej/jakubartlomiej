@@ -26,7 +26,7 @@ src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" height="50" w
 [![LinkedIn][1]][1.1]
 
 [1]: https://img.icons8.com/color/48/000000/linkedin.png
-[1.1]: https://www.linkedin.com/in/bartlomiej-jakubowski-7a123415b
+[1.1]: https://www.linkedin.com/in/bart%C5%82omiej-jakubowski-7a123415b
 
   </div>
 <!--
