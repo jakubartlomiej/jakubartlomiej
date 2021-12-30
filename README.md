@@ -18,7 +18,7 @@ src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" heig
 src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" height="50" width="50"> 
 
 
-### :dart: My GitHub Stats
+### :dart: My GitHub Stats:
 
 [![jakubartlomiej GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubartlomiej&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
