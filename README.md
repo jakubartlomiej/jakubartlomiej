@@ -2,7 +2,7 @@
   
 # Hello I am Bartłomiej <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I learning the java programing and looking my first job in this technology. 
+I learning the java programing and I looking my first job in this technology. 
   
   On the bottom you have more information about me and my actuality projects.
 
