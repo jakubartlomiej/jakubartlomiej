@@ -20,7 +20,7 @@ src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="git" height="50" w
 
 ### :dart: My GitHub Stats:
 
-[![jakubartlomiej GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubartlomiej&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![jakubartlomiej GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubartlomiej&theme=radical)](https://github.com/jakubartlomiej/jakubartlomiej)
 
 ### :envelope: Contact: 
 [![LinkedIn][1]][1.1]
